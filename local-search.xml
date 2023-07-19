@@ -5,23 +5,10 @@
   
   <entry>
     <title>test_page</title>
-    <link href="/2023/07/19/test-page/"/>
-    <url>/2023/07/19/test-page/</url>
+    <link href="/2023/07/19/article1/"/>
+    <url>/2023/07/19/article1/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p><img src="/test.jpg" alt="test"></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>title</title>
-    <link href="/2023/07/19/title/"/>
-    <url>/2023/07/19/title/</url>
-    
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>一点小小的test。</p>]]></content>
     
     
     
