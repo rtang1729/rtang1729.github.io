@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>test_page</title>
+    <title>test文本</title>
     <link href="/2023/07/19/article1/"/>
     <url>/2023/07/19/article1/</url>
     
-    <content type="html"><![CDATA[<p>一点小小的test。</p>]]></content>
+    <content type="html"><![CDATA[<img src="/2023/07/19/article1/test.jpg" class="" title="图片引用方法一"><p><img src="/test.jpg" alt="图片引用方法二"></p><p><img src="/images/test.jpg" alt="图片引用方法三"></p>]]></content>
     
     
     
